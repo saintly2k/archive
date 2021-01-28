@@ -5,14 +5,14 @@ idk actaully myself. here i save links or so for myself but nothing much.
 hey, im saintly, known as $aintly and shironitus, too, and i do some shitty things in the internet such as programing with html or javascipt and css. i am learning c# and am good with batch and pyton, but not a professional in python, only in batch. i am a translator on <a href="https://mangadex.org" target="_blank">mangadex</a> with my group <a href="https://mangadex.org/group/16890" target="_blank">weltenWanderer Scans</a>. we scanlate manga as a team and still need help, if you know german, you're welcome.
 
 # recruitement
-wenn du deutsch sprichst, bist du willkommen, unserem team beizutreten.
-wir suchen im moment:
-- überetzer en -> de
-- redrawer
-- typesetter
-- discord staff
-bitte auf unserem discord melden!
-<a href="http://wwsdc.wolframe.club" target="_blank">discord server</a>
+wenn du deutsch sprichst, bist du willkommen, unserem team beizutreten.<br>
+wir suchen im moment:<br>
+- überetzer en -> de<br>
+- redrawer<br>
+- typesetter<br>
+- discord staff<br>
+bitte auf unserem discord melden!<br>
+<a href="http://wwsdc.wolframe.club" target="_blank">discord server</a><br>
 mehr infos auf unserer <a href="http://wws.fanclub.rocks" target="_blank">website</a>.
 
 # socials
