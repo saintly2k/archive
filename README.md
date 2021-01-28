@@ -1,5 +1,9 @@
 # index
--<a href="#what-is-this">what is this?</a>
+-<a href="#what-is-this">what is this?</a><br>
+-<a href="#about-me">about me</a><br>
+-<a href="#recruitement">recruitement</a><br>
+-<a href="#saves">saves</a><br>
+-<a href="#socials">socials</a>
 
 # what is this?
 idk actaully myself. here i save links or so for myself but nothing much.
