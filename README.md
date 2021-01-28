@@ -3,6 +3,7 @@
 -<a href="#about-me">about me</a><br>
 -<a href="#recruitement">recruitement</a><br>
 -<a href="#saves">saves</a><br>
+-<a href="#manga-saves">manga-saves</a><br>
 -<a href="#socials">socials</a>
 
 # what is this?
@@ -21,6 +22,12 @@ wir suchen im moment:<br>
 bitte auf unserem discord melden!<br>
 <a href="http://wwsdc.wolframe.club" target="_blank">discord server</a><br>
 mehr infos auf unserer <a href="http://wws.fanclub.rocks" target="_blank">website</a>.
+
+# saves
+link saves etc
+
+# manga-saves
+manga saves etc
 
 # socials
 <a href="https://gitlab.com/akiRea" target="_blank">my gitlab (where most of my code/other stuff is)</a><br>
