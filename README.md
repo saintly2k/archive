@@ -32,7 +32,7 @@ bitte auf unserem discord melden!<br>
 mehr infos auf unserer <a href="http://wws.fanclub.rocks" target="_blank">website</a>.
 
 # saves
-link saves etc
+https://sourceforge.net/projects/fdestination/
 
 # manga-saves
 manga saves etc
